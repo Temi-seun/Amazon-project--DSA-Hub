@@ -111,7 +111,7 @@ A detailed Excel-based analytics project on Amazon product reviews, discounts, a
 ## 👨‍💻 About Me
 
 **Moibi Temitope Yetunde**  
-🎓 Hnd in Business Administration| 📊 Data Analyst 
+🎓 Hnd in Business Administration and Management| 📊 Data Analyst 
 I’m passionate about simplifying data into impactful visuals and helping businesses make better decisions.  
 This project is a reflection of my journey in Excel-based analysis and business intelligence reporting.
 
@@ -119,9 +119,9 @@ This project is a reflection of my journey in Excel-based analysis and business 
 
 ## 📫 Contact
 
-- **Email:** abidemifrancis@gmail.com  
-- **Phone:** +234 706 246 3125  
-- **LinkedIn:** [www.linkedin.com/in/fran7safe]
+- **Email:** temmythope94@gmail.com 
+- **Phone:** +234 816 979 2550 
+- **LinkedIn:** https://www.linkedin.com/in/temitope-moibi-8031b0251
 
 ---
 
